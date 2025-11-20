@@ -1,5 +1,6 @@
 body
 {
+	background-image: url(hatter.jpg);
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	font-family: 'Times New Roman';
@@ -32,6 +33,7 @@ h3
 div.jobbra
 {
 	float:right;
+	
 }
 .keplet
 {
@@ -41,4 +43,10 @@ form
 {
 	text-align:left;
 	font-size:1.2em;
+}
+
+img
+{
+	width: 176px;
+	height: 227px;
 }

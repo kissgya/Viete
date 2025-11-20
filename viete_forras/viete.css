@@ -38,6 +38,8 @@ div.jobbra
 .keplet
 {
 	text-align:center;
+	display: block;
+	margin: 0 auto;
 }
 form
 {
@@ -45,7 +47,7 @@ form
 	font-size:1.2em;
 }
 
-img
+.viete
 {
 	width: 176px;
 	height: 227px;
